@@ -4,7 +4,7 @@ import java.util.Date;
 
 public class DemoTimeStamp {
 
-	public String generateEmail() {
+	public String generateNewEmail() {
 		
 		return new Date().toString().replaceAll("\\s","").replaceAll("\\:","")+"@gmail.com";
 		

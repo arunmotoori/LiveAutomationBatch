@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-14T19:47:18 IST" name="Default suite" finished-at="2024-10-14T19:47:24 IST" duration-ms="6215">
+  <suite started-at="2024-10-22T20:00:56 IST" name="Default suite" finished-at="2024-10-22T20:01:04 IST" duration-ms="7828">
     <groups>
     </groups>
-    <test started-at="2024-10-14T19:47:18 IST" name="Default test" finished-at="2024-10-14T19:47:24 IST" duration-ms="6215">
-      <class name="registerpack.TCRF001">
-        <test-method signature="registerWithMandatoryFields()[pri:0, instance:registerpack.TCRF001@5677323c]" started-at="2024-10-14T19:47:18 IST" name="registerWithMandatoryFields" finished-at="2024-10-14T19:47:24 IST" duration-ms="6185" status="PASS">
+    <test started-at="2024-10-22T20:00:56 IST" name="Default test" finished-at="2024-10-22T20:01:04 IST" duration-ms="7828">
+      <class name="registerpack.TCRF003">
+        <test-method signature="verifyRegisteringAccountWithAllFields()[pri:0, instance:registerpack.TCRF003@6340e5f0]" started-at="2024-10-22T20:00:56 IST" name="verifyRegisteringAccountWithAllFields" finished-at="2024-10-22T20:01:04 IST" duration-ms="7788" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- registerWithMandatoryFields -->
-      </class> <!-- registerpack.TCRF001 -->
+        </test-method> <!-- verifyRegisteringAccountWithAllFields -->
+      </class> <!-- registerpack.TCRF003 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
